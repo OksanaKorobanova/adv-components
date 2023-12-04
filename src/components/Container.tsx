@@ -2,7 +2,7 @@
 import {
   type ReactNode,
   type ElementType,
-  ComponentPropsWithoutRef,
+  type ComponentPropsWithoutRef,
 } from 'react';
 
 type ContainerProps<T extends ElementType> = {
